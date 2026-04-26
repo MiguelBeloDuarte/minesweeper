@@ -1,6 +1,6 @@
 # Minesweeper
 
-A complete terminal-based Minesweeper game built in Kotlin as a university project for Fundamentos de Programação course at Universidade Lusófona (2025/2026).
+A complete terminal-based Minesweeper game built in Kotlin as a university project for the **Fundamentos de Programação** course at Universidade Lusófona (2025/2026).
 
 ## Features
 
