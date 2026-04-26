@@ -30,7 +30,7 @@ java -jar Minesweeper.jar
 
 ## Project Context
 
-Built collaboratively in a 2-person team, with individual defense after submission. Final grade: [add your grade here, optional].
+Built collaboratively in a 2-person team, with individual defense after submission.
 
 ## Authors
 
